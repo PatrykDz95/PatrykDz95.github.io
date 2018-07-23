@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>luv2code SYSTEMS Home Page</title>
+	<title>luv2code SYSTEMS Home Page</title>
 </head>
 
 <body>
@@ -11,8 +11,10 @@
 <hr>
 
 <p>
-See you in the basement.. for our meeting!
-<p>
+	We have our annual holiday Caribbean cruise coming up. Register now!
+	<br>
+	Keep this trip a secret, don't tell the regular employees LOL :-)
+</p>
 
 <hr>
 
@@ -21,3 +23,12 @@ See you in the basement.. for our meeting!
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+

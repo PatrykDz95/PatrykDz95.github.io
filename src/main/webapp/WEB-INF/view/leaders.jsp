@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>luv2code LEADERS Home Page</title>
+	<title>luv2code LEADERS Home Page</title>
 </head>
 
 <body>
@@ -11,8 +11,10 @@
 <hr>
 
 <p>
-See you in Brazil.. for our annual Leadership retreat!
-<p>
+	See you in Brazil ... for our annual Leadership retreat!
+	<br>
+	Keep this trip a secret, don't tell the regular employees LOL :-)
+</p>
 
 <hr>
 
@@ -21,3 +23,12 @@ See you in Brazil.. for our annual Leadership retreat!
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
